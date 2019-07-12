@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1 Challenge</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_profile_pic">My Profile Picture</string>
+    <string name="my_name">Celestine BODI LUFONG</string>
+    <string name="my_track">Android</string>
+    <string name="my_country">Cameroon</string>
+    <string name="my_email">cbodi2014@gmail.com</string>
+    <string name="my_phoneNumber">237674635192</string>
+    <string name="my_slackUsername">"@CelestineBODI"</string>
+</resources>
